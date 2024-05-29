@@ -1,4 +1,6 @@
 #5.23
+packages.txt
+libtk8.6
 from turtle import *
 from time import sleep
  
