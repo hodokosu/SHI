@@ -1,5 +1,4 @@
 #5.23
-libtk8.6
 from turtle import *
 from time import sleep
  
